@@ -10,7 +10,7 @@
   },
   "dependencies": {
     "@types/aos": "^3.0.7",
-    "@types/fslightbox-react": "^1.7.7",
+    "@types/fslightbox-react": "^1.7.8",
     "animate.css": "^4.1.1",
     "aos": "^2.3.4",
     "fslightbox-react": "^1.7.6",

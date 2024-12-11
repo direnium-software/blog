@@ -10,6 +10,7 @@ const AboutContent: React.FC = () => {
   const [toggler, setToggler] = useState(false);
   return (
     <>
+      {/* @ts-ignore */}
       <FsLightbox
         toggler={toggler}
         sources={["https://www.youtube.com/embed/bk7McNUjWgw"]}

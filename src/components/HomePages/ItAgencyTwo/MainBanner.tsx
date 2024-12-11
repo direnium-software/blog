@@ -11,9 +11,10 @@ import ovalShape from '../../../../public/images/oval-shape.png';
 const MainBanner: React.FC = () => {
   const [toggler, setToggler] = useState(false);
   return (
-      <>
-        <FsLightbox
-          toggler={toggler}
+    <>
+      {/* @ts-ignore */}
+      <FsLightbox
+        toggler={toggler}
           sources={["https://www.youtube.com/embed/bk7McNUjWgw"]}
         />
 

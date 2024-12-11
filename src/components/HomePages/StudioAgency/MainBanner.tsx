@@ -22,6 +22,7 @@ const MainBanner: React.FC = () => {
 
   return (
     <>
+      {/* @ts-ignore */}
       <FsLightbox
         toggler={toggler}
         sources={["https://www.youtube.com/embed/bk7McNUjWgw"]}

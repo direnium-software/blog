@@ -12,7 +12,8 @@ import lock from "../../../../public/images/cyber-security/banner/lock.png";
 const MainBanner: React.FC = () => {
   const [toggler, setToggler] = useState(false);
   return (
-    <>
+    <> 
+      {/* @ts-ignore */}
       <FsLightbox
         toggler={toggler}
         sources={["https://www.youtube.com/embed/bk7McNUjWgw"]}
