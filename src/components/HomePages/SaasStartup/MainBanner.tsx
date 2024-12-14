@@ -19,7 +19,7 @@ const MainBanner: React.FC = () => {
                   data-aos-duration="1000"
                   data-aos-delay="100"
                 >
-                  Pungent is Most Powerful SaaS Solution
+                  Direnium is Most Powerful SaaS Solution
                 </h1>
                 
                 <p

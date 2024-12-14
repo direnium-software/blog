@@ -51,7 +51,7 @@ const saira = Saira({
 });
 
 export const metadata: Metadata = {
-  title: "Pungent - React Nextjs Multipurpose Startup & Digital Agency Template",
+  title: "Direnium - React Nextjs Multipurpose Startup & Digital Agency Template",
   description: "React Nextjs Multipurpose Startup & Digital Agency Template",
 };
 

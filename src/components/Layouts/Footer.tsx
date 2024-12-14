@@ -162,8 +162,8 @@ const Footer: React.FC = () => {
                   </li>
                   <li>
                     <i className="fa-solid fa-envelope"></i>
-                    <a href="mailto:hello@pungent.com">hello@pungent.com</a>
-                    <a href="mailto:support@pungent.com">support@pungent.com</a>
+                    <a href="mailto:hello@direnium.com">hello@direnium.com</a>
+                    <a href="mailto:support@direnium.com">support@direnium.com</a>
                   </li>
                 </ul>
               </div>
@@ -174,7 +174,7 @@ const Footer: React.FC = () => {
         <div className="copyright-area">
           <div className="container">
             <p>
-              Copyright &copy; {currentYear} Pungent. All Rights Reserved By{" "}
+              Copyright &copy; {currentYear} Direnium. All Rights Reserved By{" "}
               <a href="https://envytheme.com" target="_blank">
                 EnvyTheme
               </a>

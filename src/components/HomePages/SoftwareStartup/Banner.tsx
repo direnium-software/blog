@@ -28,7 +28,7 @@ const Banner: React.FC = () => {
                   data-aos-duration="1000"
                   data-aos-delay="200"
                 >
-                  Manage All of Your Stuff Using a Pungent
+                  Manage All of Your Stuff Using a Direnium
                 </h1>
 
                 <p

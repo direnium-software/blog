@@ -135,7 +135,7 @@ const FooterDark: React.FC = () => {
                   </li>
                   <li className="pt-2">
                     <i className="fa-solid fa-envelope"></i>
-                    <a href="mailto:hello@pungent.com">hello@pungent.com</a>
+                    <a href="mailto:hello@direnium.com">hello@direnium.com</a>
                   </li>
                 </ul>
               </div>
@@ -146,7 +146,7 @@ const FooterDark: React.FC = () => {
         <div className="copyright-area">
           <div className="container">
             <p>
-              Copyright &copy; {currentYear} Pungent. All Rights Reserved By{" "}
+              Copyright &copy; {currentYear} Direnium. All Rights Reserved By{" "}
               <a href="https://envytheme.com" target="_blank">
                 EnvyTheme
               </a>

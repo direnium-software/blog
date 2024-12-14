@@ -29,7 +29,7 @@ const MainBanner: React.FC = () => {
                       data-aos-duration="1000"
                       data-aos-delay="200"
                     >
-                      Start your startup agency with Pungent
+                      Start your startup agency with Direnium
                     </h1>
 
                     <p

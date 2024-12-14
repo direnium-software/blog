@@ -23,21 +23,21 @@ export default function Home() {
 
       <About />
 
-      <OurWorks />
+      {/* <OurWorks /> */}
 
       <WorkProcess />
 
-      <Feedback />
+      {/* <Feedback /> */}
 
-      <Team />
+      {/* <Team /> */}
 
-      <FunFacts />
+      {/* <FunFacts /> */}
 
-      <LatestNewsSlider />
+      {/* <LatestNewsSlider /> */}
 
       <CtaArea />
 
-      <Partner />
+      {/* <Partner /> */}
 
       <Footer />
     </>

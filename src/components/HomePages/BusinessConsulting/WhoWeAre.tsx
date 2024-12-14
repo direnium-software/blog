@@ -29,7 +29,7 @@ const WhoWeAre: React.FC = () => {
               >
                 <span className="sub-title">WHO WE ARE</span>
                 <h2>
-                  Pungent global consulting firm is working with more than 1200+
+                  Direnium global consulting firm is working with more than 1200+
                   people that are working from more than 15 countries to help
                   our clients to meet his/her desirable goal in such a great
                   way.

@@ -15,10 +15,10 @@ const ContactInfo: React.FC = () => {
                 </div>
                 <h3>Mail Here</h3>
                 <p>
-                  <a href="mailto:admin@pungent.com">admin@pungent.com</a>
+                  <a href="mailto:admin@direnium.com">admin@direnium.com</a>
                 </p>
                 <p>
-                  <a href="mailto:info@pungent.com">info@pungent.com</a>
+                  <a href="mailto:info@direnium.com">info@direnium.com</a>
                 </p>
               </div>
             </div>

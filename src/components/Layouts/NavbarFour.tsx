@@ -61,7 +61,7 @@ const NavbarFour: React.FC = () => {
 
             <div className={classOne} id="navbarSupportedContent">
               <ul className="navbar-nav">
-                <MegaMenu />
+                {/* <MegaMenu /> */}
 
                 {menus.map((menuItem) => (
                   <MenuItem key={menuItem.label} {...menuItem} />
@@ -70,7 +70,7 @@ const NavbarFour: React.FC = () => {
 
               <div className="others-options">
                 <Link href="/contact-us/" className="btn btn-primary">
-                  Get Started
+                  Get in Touch
                 </Link>
               </div>
             </div>
