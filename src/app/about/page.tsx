@@ -18,13 +18,13 @@ export default function Page() {
 
       <AboutContent />
 
-      <FunFactsTwo />
+      {/* <FunFactsTwo /> */}
 
-      <TeamStyleThree />
+      {/* <TeamStyleThree /> */}
 
-      <Feedback />
+      {/* <Feedback /> */}
 
-      <Partner />
+      {/* <Partner /> */}
 
       <CtaAreaTwo />
 

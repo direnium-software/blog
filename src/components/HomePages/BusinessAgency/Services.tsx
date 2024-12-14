@@ -62,8 +62,7 @@ const Services: React.FC = () => {
           <div className="section-title">
             <h2>Our Services</h2>
             <p>
-              Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do
-              eiusmod tempor incididunt ut labore et dolore magna.
+            At Direnium, we specialize in delivering high-quality, scalable solutions tailored to your business needs. From development to cutting-edge AI integration, we help you achieve your goals efficiently and effectively.
             </p>
           </div>
 

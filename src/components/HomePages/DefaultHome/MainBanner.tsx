@@ -46,25 +46,23 @@ const MainBanner: React.FC = () => {
                       data-aos-duration="1000"
                       data-aos-delay="100"
                     >
-                      A Digital Agency
+                      Your Software Partners
                     </span>
 
-                    <h1
+                    <h2
                       data-aos="fade-in"
                       data-aos-duration="1000"
                       data-aos-delay="200"
                     >
-                      We&apos;re a full-range digital agency.
-                    </h1>
+                      Reliable Software Solutions, Built to Last
+                    </h2>
                     
                     <p
                       data-aos="fade-in"
                       data-aos-duration="1000"
                       data-aos-delay="300"
                     >
-                      Lorem ipsum dolor sit amet, consectetur adipiscing elit,
-                      sed do eiusmod tempor incididunt ut labore et dolore
-                      magna aliqua.
+                      Tailored, dependable, and designed to grow with you.
                     </p>
                     
                     <Link 
@@ -74,10 +72,10 @@ const MainBanner: React.FC = () => {
                       data-aos-duration="1000"
                       data-aos-delay="400"
                     >
-                      Get Started
+                      Get in Touch
                     </Link>
 
-                    <button
+                    {/* <button
                       onClick={() => setToggler(!toggler)}
                       className="btn btn-secondary"
                       data-aos="fade-in"
@@ -85,7 +83,7 @@ const MainBanner: React.FC = () => {
                       data-aos-delay="500"
                     >
                       <i className="fa-solid fa-play me-1"></i> How it works
-                    </button>
+                    </button> */}
                   </div>
                 </div>
 

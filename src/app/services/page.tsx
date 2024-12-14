@@ -10,7 +10,7 @@ export default function Page() {
     <>
       <NavbarTwo />
 
-      <PageBanner pageTitle="Our Services" BGImage="/images/page-banner1.jpg" />
+      <PageBanner pageTitle="Services" BGImage="/images/page-banner1.jpg" />
 
       <ServicesStyleOne />
 

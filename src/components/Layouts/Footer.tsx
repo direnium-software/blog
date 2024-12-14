@@ -32,9 +32,7 @@ const Footer: React.FC = () => {
                 </div>
 
                 <p>
-                  Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed
-                  do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-                  Ut enim ad minim veniam.
+                Direnium delivers reliable, scalable software solutions, from product development to AI integration. We turn ideas into impactful digital experiences with quality and trust at our core.
                 </p>
 
                 <ul className="social-links">

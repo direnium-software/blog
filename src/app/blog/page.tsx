@@ -9,7 +9,7 @@ export default function Page() {
     <>
       <NavbarTwo />
 
-      <PageBanner pageTitle="Blog Grid" BGImage="/images/page-banner3.jpg" />
+      <PageBanner pageTitle="Insights That Drive Innovation" BGImage="/images/page-banner3.jpg" />
 
       <BlogGridThree />
 
