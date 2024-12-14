@@ -6,9 +6,9 @@ import Link from "next/link";
 const servicesData = [
   {
     iconName: "pe-7s-comment bg-13c4a1",
-    title: "Business Consultancy",
+    title: "Software Product Development",
     shortText:
-      "Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo.",
+      "End-to-end development of robust, scalable software products designed to meet your unique requirements and grow with your business.",
     viewDetails: "/services/service-details/",
     aosDelay: "100",
   },
@@ -16,65 +16,41 @@ const servicesData = [
     iconName: "pe-7s-display2 bg-6610f2",
     title: "Web Development",
     shortText:
-      "Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo.",
+      "Custom websites and web applications with responsive designs, optimized performance, and seamless user experiences.",
     viewDetails: "/services/service-details/",
     aosDelay: "200",
   },
   {
     iconName: "pe-7s-light bg-ffb700",
-    title: "Digital Marketing",
+    title: "MVP Development",
     shortText:
-      "Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo.",
+      "Rapid prototyping and development of minimum viable products to help you test your ideas and go to market faster.",
     viewDetails: "/services/service-details/",
     aosDelay: "300",
   },
   {
     iconName: "pe-7s-phone bg-fc3549",
-    title: "Mobile App Development",
+    title: "SaaS Development",
     shortText:
-      "Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo.",
+      "Scalable, secure, and feature-rich SaaS solutions tailored to your business model and user needs.",
     viewDetails: "/services/service-details/",
     aosDelay: "400",
   },
   {
     iconName: "pe-7s-cart bg-00d280",
-    title: "eCommerce Development",
+    title: "Artificial Intelligence Integration",
     shortText:
-      "Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo.",
+      "Transform your operations with cutting-edge AI solutions, seamlessly integrated to enhance automation, decision-making, and efficiency.",
     viewDetails: "/services/service-details/",
     aosDelay: "500",
   },
   {
     iconName: "pe-7s-users bg-ff612f",
-    title: "Marketing & Reporting",
+    title: "App Modernization & Cloud",
     shortText:
-      "Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo.",
+      "Upgrade and migrate your legacy applications to modern, cloud-based platforms to enhance performance, scalability, and reduce operational costs.",
     viewDetails: "/services/service-details/",
     aosDelay: "600",
-  },
-  {
-    iconName: "pe-7s-headphones bg-6610f2",
-    title: "IT Consultancy",
-    shortText:
-      "Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo.",
-    viewDetails: "/services/service-details/",
-    aosDelay: "700",
-  },
-  {
-    iconName: "pe-7s-users bg-13c4a1",
-    title: "Social Marketing",
-    shortText:
-      "Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo.",
-    viewDetails: "/services/service-details/",
-    aosDelay: "800",
-  },
-  {
-    iconName: "pe-7s-comment bg-fc3549",
-    title: "Admin Support",
-    shortText:
-      "Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo.",
-    viewDetails: "/services/service-details/",
-    aosDelay: "900",
   },
 ];
 
