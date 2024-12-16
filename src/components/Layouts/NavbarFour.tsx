@@ -40,7 +40,7 @@ const NavbarFour: React.FC = () => {
         <nav className="navbar navbar-expand-md navbar-light">
           <div className="container">
             <Link href="/" className="navbar-brand">
-              <Image src={logo} alt="logo" width={150} height={40} />
+              <Image src={logo} alt="logo" width={180} height={40} />
             </Link>
 
             {/* Toggle navigation */}

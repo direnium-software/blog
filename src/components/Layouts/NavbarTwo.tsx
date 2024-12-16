@@ -45,14 +45,14 @@ const NavbarTwo: React.FC = () => {
                 src={logo}
                 className="black-logo"
                 alt="logo"
-                width={150}
+                width={180}
                 height={40}
               />
               <Image
                 src={whiteLogo}
                 className="white-logo"
                 alt="logo"
-                width={150}
+                width={180}
                 height={40}
               />
             </Link>

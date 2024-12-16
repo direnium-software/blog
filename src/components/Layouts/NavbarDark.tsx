@@ -44,7 +44,7 @@ const NavbarDark: React.FC = () => {
                 src={whiteLogo}
                 className="white-logo"
                 alt="logo"
-                width={150}
+                width={180}
                 height={40}
               />
             </Link>
