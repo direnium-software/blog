@@ -14,12 +14,12 @@ import "../../public/styles/responsive.css";
 import "./globals.css";
 
 import type { Metadata } from "next";
-import { Inter, Saira } from "next/font/google";
+import { Inter, Saira, Montserrat } from "next/font/google";
 import AosAnimation from "@/components/Layouts/AosAnimation";
 import GoTop from "@/components/Layouts/GoTop";
 
 // For all body text font
-const inter = Inter({
+const inter = Montserrat({
   weight: ['100', '200', '300', '400', '500', '600', '700', '800', '900'],
   subsets: ["latin"],
   variable: "--font-inter",
@@ -27,9 +27,9 @@ const inter = Inter({
 });
 
 // For all heading font
-const saira = Saira({
+const saira = Montserrat({
   subsets: ["latin"],
-  variable: "--font-saira",
+  variable: "--font-heading",
   display: "swap",
 });
 

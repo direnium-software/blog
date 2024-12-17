@@ -57,13 +57,13 @@ body {
     padding: 0;
     margin: 0;
     font: {
-        family: var(--font-inter);
+        family: var(--font-text);
         size: $font-size;
     }
     color: $paragraph-color;
 }
 h1, h2, h3, h4, h5, h6 {
-    font-family: var(--font-saira);
+    font-family: var(--font-heading);
     color: $black-color;
     font-weight: bold;
 }
@@ -1256,12 +1256,12 @@ Main Banner CSS
             }
             .tp-caption.NotGeneric-Title, .NotGeneric-Title {
                 font: {
-                    family: var(--font-saira) !important;
+                    family: var(--font-heading) !important;
                 }
             }
             .tp-caption.NotGeneric-SubTitle, .NotGeneric-SubTitle {
                 font: {
-                    family: var(--font-inter) !important;
+                    family: var(--font-text) !important;
                     size: 15px !important;
                     weight: 500 !important;
                 }
@@ -2035,7 +2035,7 @@ Quotes CSS
         font: {
             size: 32px;
             weight: 700;
-            family: var(--font-saira);
+            family: var(--font-heading);
         }
         &::before {
             content: '';
@@ -4318,7 +4318,7 @@ blockquote {
         position: relative;
         padding-left: 17px;
         font: {
-            family: var(--font-saira);
+            family: var(--font-heading);
             weight: 600;
         }
         &::before {
@@ -4474,7 +4474,7 @@ blockquote {
         .fn {
             font: {
                 weight: 600;
-                family: var(--font-saira);
+                family: var(--font-heading);
             }
         }
         .says {
@@ -4893,7 +4893,7 @@ textarea.form-control {
         span {
             font: {
                 size: 18px;
-                family: var(--font-saira);
+                family: var(--font-heading);
                 weight: 600;
             }
             display: block;
@@ -5316,7 +5316,7 @@ Case Studies Details CSS
                 font: {
                     size: 16px;
                     weight: 700;
-                    family: var(--font-saira);
+                    family: var(--font-heading);
                 }
                 color: $black-color;
                 display: inline-block;
@@ -5416,7 +5416,7 @@ Portfolio Details CSS
                 font: {
                     size: 16px;
                     weight: 700;
-                    family: var(--font-saira);
+                    family: var(--font-heading);
                 }
                 color: $black-color;
                 display: inline-block;
@@ -5559,7 +5559,7 @@ FAQ CSS
                 font: {
                     size: 18px;
                     weight: 700;
-                    family: var(--font-saira);
+                    family: var(--font-heading);
                 }
                 &:hover, &.active, &:focus {
                     background: $main-color;
@@ -5602,7 +5602,7 @@ FAQ CSS
         margin-bottom: 35px;
         font: {
             size: 24px;
-            family: var(--font-saira);
+            family: var(--font-heading);
         }
     }
     form {
