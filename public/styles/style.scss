@@ -45,13 +45,13 @@ This files table contents are outlined below >>>>>
 
 // Global Variable
 
-$main-color: #ff2c9c;
-$gradient-color: linear-gradient(to left top, #ff2c9c, #ff287b, #ff395a, #ff5137, #ff6a00);
+$main-color: #286ef0;
+$gradient-color: linear-gradient(to left top, #5d3fd3, #286ef0, #d160f7);
+$black-color: #2E2B3F;
+$paragraph-color: #2E2B3F;
+$white-color: #FFFFFF;
+$transition: all 0.6s ease;
 $font-size: 15px;
-$black-color: #18181b;
-$paragraph-color: #646464;
-$white-color: #ffffff;
-$transition: all 0.5s ease;
 
 body {
     padding: 0;
@@ -278,8 +278,8 @@ a {
 }
 
 .default-btn-two {
-    border: 2px solid #f9004d;
-    background: #f9004d;
+    border: 2px solid #286EF0;
+    background: #5d3fd3;
     color: #fff;
     border-radius: 6px;
     text-align: center;
@@ -4195,7 +4195,7 @@ Blog CSS
             opacity: 1;
             &.swiper-pagination-bullet-active {
                 background: $gradient-color;
-                border: 1px solid #ff2c9c;
+                border: 1px solid #5d3fd3;
             }
         }
     }
@@ -5788,7 +5788,7 @@ Footer CSS
     }
 }
 .copyright-area {
-    background-color: #000000;
+    background-color: #2e2b3f;
     text-align: center;
     margin-top: 95px;
     padding: {
@@ -6002,7 +6002,7 @@ span.new {
             opacity: 1;
             &.swiper-pagination-bullet-active {
                 background: $gradient-color;
-                border: 1px solid #ff2c9c;
+                border: 1px solid #5d3fd3;
             }
         }
     }

@@ -8,23 +8,6 @@ import "react-accessible-accordion/dist/fancy-example.css";
 import "swiper/css";
 import "swiper/css/bundle";
 
-// Software Startup Home Style
-import "../../public/styles/software-home-page.css";
-// App Showcase Home Style
-import "../../public/styles/app-home-page.css";
-// Digital Marketing Home Page Style
-import "../../public/styles/digital-marketing-home-page.css";
-// Personal Portfolio Home Style
-import "../../public/styles/personal-portfolio-home-page.css";
-// Business Consulting Home Page Style
-import "../../public/styles/business-consulting-home-page.css";
-// SaaS Startup Home Page Style
-import "../../public/styles/saas-startup-home-page.css";
-// Freelancer Portfolio Home Page Style
-import "../../public/styles/freelancer-portfolio-home-page.css";
-// Cyber Security Agency Home Page Style
-import "../../public/styles/cyber-security-agency-home-page.css";
-
 // Global Style
 import "../../public/styles/style.css";
 import "../../public/styles/responsive.css";
