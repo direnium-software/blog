@@ -14,7 +14,7 @@ import "../../public/styles/responsive.css";
 import "./globals.css";
 
 import type { Metadata } from "next";
-import { Inter, Saira, Montserrat } from "next/font/google";
+import { Montserrat } from "next/font/google";
 import AosAnimation from "@/components/Layouts/AosAnimation";
 import GoTop from "@/components/Layouts/GoTop";
 
@@ -22,11 +22,11 @@ import GoTop from "@/components/Layouts/GoTop";
 const inter = Montserrat({
   weight: ['100', '200', '300', '400', '500', '600', '700', '800', '900'],
   subsets: ["latin"],
-  variable: "--font-inter",
+  variable: "--font-text",
   display: "swap",
 });
 
-// For all heading font
+// For all heading fontr
 const saira = Montserrat({
   subsets: ["latin"],
   variable: "--font-heading",
